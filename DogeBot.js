@@ -81,7 +81,7 @@ const thumb = fs.readFileSync ('./media/dogetb.jpg')
 //══════════[ Developer Number ]══════════//
 
 developerNo = '94775978468'
-developerName= '׀𓀂͓͢͡𝑆𝐼𝐿𝛯𝚴 𝛭𝛩𝐷𝛧͢͡𓀂͓׀⁩ '
+developerName= '*𓀂͓͢͡𝑆𝐼𝐿𝛯𝚴 𝛭𝛩𝐷𝛧͢͡𓀂*'
 
 //══════════[ Apikeys ]══════════//
 //----credit goes to all the respected owner---//
