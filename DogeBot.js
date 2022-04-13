@@ -2843,7 +2843,7 @@ vcard2 = 'BEGIN:VCARD\n'
 DogeXeonOP.sendMessage(from, {displayName: `The owner ${botname}`, vcard: vcard2}, contact, 
 { quoted: fgi, 
 })
-reply(`_׀𓀂͓͢͡𝑆𝐼𝐿𝛯𝚴 𝛭𝛩𝐷𝛧͢͡𓀂͓׀⁩ IS MY OWNER😾_`)
+reply(`_*𓀂͓͢͡𝑆𝐼𝐿𝛯𝚴 𝛭𝛩𝐷𝛧͢͡𓀂* IS MY OWNER😾_`)
 break
 case 'developer':
 
