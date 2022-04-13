@@ -39,7 +39,7 @@ console.log(color('  SILEN Bot Inc. 2022','mediumseagreen'))
     console.log(color('<>','red'), color('I Wrote This Script By Myself!\nNote, The Script Is Encrypted, So You Wont Be Able To Recode, If You Wish To Buy Decrypted Script Contact The Developer', 'yellow'))
     console.log(color('<>','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('<>','red'), color('But? Error? Suggestion? Visit Here:', 'aqua'), color('https://wa.me/94775978468'))
-    console.log(color('[SILEN BOT]'), color('Doge Bot Is Online', 'aqua'))
+    console.log(color('[SILEN BOT]'), color('Silen Bot Is Online', 'aqua'))
     console.log(color('[DEV]', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
     console.log(color('<>','red'), color('Thanks For Using Doge Bot', 'white'))
 	DogeXeonOP.browserDescription = [ 'Subscribe SILEN', 'chrome', '3.0' ]
