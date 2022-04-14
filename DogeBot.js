@@ -593,8 +593,8 @@ ${gaya1} *Time* : ${time}
 ❏「 INFO BOT 」
 ${gaya1} *Speed* : ${latensie.toFixed(4)} Second
 ${gaya1} *Runtime* : ${runtime(process.uptime())}
-${gaya1} *Bot Name* : ${BotName}
-${gaya1} *Owner Name* : ${OwnerName}
+${gaya1} *Bot Name* : ${botname}
+${gaya1} *Owner Name* : ${ownername}
 ${gaya1} *Owner Number* : @${pemilik.split('@')[0]}
 ${gaya1} *Host Name :* ${os.hostname()}
 ${gaya1} *Platform :* ${os.platform()}
